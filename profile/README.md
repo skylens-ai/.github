@@ -1,7 +1,6 @@
 ## SkyLens AI
 ### About Us
-SkyLens AI is dedicated to building intelligent, autonomous UAVs designed for real-world applications. 
-Our mission is to harness the power of AI-driven vision systems to create drones that are proactive, decision-making tools that improve safety, security, and environmental friendliness.
+We are building intelligent, autonomous UAVs designed for real-world applications.
 
 ### Use Cases
 - 🚒 Wildfire Detection: Early identification of fires to prevent disasters.
